@@ -1,4 +1,6 @@
-# MyBaby
- Meu primeiro repositório no GitHub.
+# MyProgramsBabies
+ Meus primeiros programas bebês, e é exatamente isso, ou quase isso. 
 
- Repositório criado para aprender as funcionabilidades do GitHub.
+ Muitos estudos sobre:
+ 
+ * Java. - por enquanto.
